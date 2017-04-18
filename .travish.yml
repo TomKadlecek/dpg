@@ -4,7 +4,7 @@ python:
   - "2.7"
   - "3.5"
   
-notofication
+notofication:
   slack:
     on_succes: never
     on_failuer: never
