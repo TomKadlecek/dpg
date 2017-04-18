@@ -10,4 +10,4 @@ notofication:
     on_failuer: never
     
 script:
-  - python test.py
+  - python hello.py
