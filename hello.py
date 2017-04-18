@@ -1,4 +1,4 @@
 import sys
-impoer multiprocessing as mp
+import multiprocessing as mp
 
 printf("Hello world")
